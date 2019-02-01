@@ -1,5 +1,5 @@
 package com.training.bean;
-
+  
 /**
  * 
  * @author Naveen
